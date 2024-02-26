@@ -5,10 +5,10 @@ This portable tool allow generate quickly the codes of [Item Size, Growing Items
 The design is based on Dry Bowser and includes a custom cursor, snow effects and background music.
 
 ## Operating System Requirements
-This tool works in Windows system.
+This tool works on Windows system.
 
 ## Processor Requirements
-This tool works in processor x86 and x64 bits.
+This tool works on processor x86 and x64 bits.
 
 ## Demonstration
 You can click [here](https://www.youtube.com/watch?v=ZvR5pjDietQ) to see a video about this tool.
